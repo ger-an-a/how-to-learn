@@ -41,7 +41,6 @@
 }
 
 .header__title {
-  margin: 0;
   width: 730px;
   z-index: 2;
   color: black;
@@ -153,13 +152,12 @@
 }
 
 .section-subtitle {
-  margin: 0;
   text-align: center;
   width: 60%;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin: auto;
+  margin: 0 auto;
   color: black;
 }
 
@@ -169,7 +167,6 @@
 
 .table {
   list-style: none;
-  margin: 0;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
@@ -239,12 +236,11 @@
 }
 
 .feynman__subtitle {
-  margin: 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
   text-align: center;
-  margin: auto;
+  margin: 0 auto;
   color: black;
   position: relative;
   z-index: 1;
@@ -284,7 +280,7 @@
   background-image: url('../images/kaufman-triangle.svg');
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: right; 
+  background-position: right;
   width: 877px;
   height: 877px;
   position: absolute;
