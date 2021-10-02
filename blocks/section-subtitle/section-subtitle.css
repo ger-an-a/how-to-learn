@@ -6,4 +6,6 @@
   font-weight: normal;
   margin: 0 auto;
   color: black;
+  position: relative;
+  z-index: 1;
 }
