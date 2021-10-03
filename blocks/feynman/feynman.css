@@ -4,4 +4,8 @@
   padding-top: 100px;
   min-height: 890px;
   box-sizing: border-box;
+  background-image: url(../../images/feynman.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 867px 637px;
 }
